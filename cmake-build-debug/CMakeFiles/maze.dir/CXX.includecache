@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nicoletelesz/CLionProjects/maze/loadImage.h
+SFML/Graphics.hpp
+/Users/nicoletelesz/CLionProjects/maze/SFML/Graphics.hpp
+unordered_map
+-
+string
+-
+
+/Users/nicoletelesz/CLionProjects/maze/main.cpp
+SFML/Graphics.hpp
+-
+vector
+-
+iostream
+-
+string
+-
+fstream
+-
+random
+-
+tile.h
+/Users/nicoletelesz/CLionProjects/maze/tile.h
+loadImage.h
+/Users/nicoletelesz/CLionProjects/maze/loadImage.h
+player.h
+/Users/nicoletelesz/CLionProjects/maze/player.h
+
+/Users/nicoletelesz/CLionProjects/maze/player.h
+string
+-
+SFML/Graphics/Sprite.hpp
+-
+
+/Users/nicoletelesz/CLionProjects/maze/tile.h
+
