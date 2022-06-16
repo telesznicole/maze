@@ -1,7 +1,7 @@
 # maze
 
 This personal project was implemented in order to develop skills in SFML. The main focuses of this project were to:
-- develope binary-fed board constructor
+- develop binary-fed board constructor
 - evolve efficiency in computer-based player controls
 - progress fluency in the SFML Graphics library through dynamic gameplay-dependent image alterations
 
