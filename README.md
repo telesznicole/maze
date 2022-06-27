@@ -6,7 +6,7 @@ This personal project was implemented in order to develop skills in SFML. The ma
 - progress fluency in the SFML Graphics library through dynamic gameplay-dependent image alterations
 
 ### Overview:
-This maze game uses one of three bianry-fed boards that the user must naviagte while avoiding deadly lava with limited visibility. None of the images or fonts in this game are of my own creation and are sourced from online. There are currently bugs in regards to changing the player. Below are some images of the game with descriptors below.
+This maze game uses one of three binary-fed boards that the user must navigate while avoiding deadly lava with limited visibility. None of the images or fonts in this game are of my own creation and are sourced from online. There are currently bugs in regards to changing the player. Below are some images of the game with descriptors below.
 
 ### Images
 ###### Start screen upon loading game
